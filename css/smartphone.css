@@ -1,0 +1,13 @@
+div.dropdown-menu > ul > a {
+  width: 100vw;
+}
+
+div.dropdown-menu > ul > li {
+  display: block;
+}
+
+.brand {
+  font-size: 20;
+  font-size: 1.3em;
+  display: inline;
+}
